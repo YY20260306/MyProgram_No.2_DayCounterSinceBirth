@@ -1,0 +1,2 @@
+# MyProgram_No.2_DayCounterSinceBirth
+生成AIに手を貸してもらいつつ、生まれてから今日までの日数をカウントする計算機を作りました。
